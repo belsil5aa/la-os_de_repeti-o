@@ -1,0 +1,17 @@
+form {
+    background-color: rgb(190, 228, 238);
+    padding: 40px;
+    font-family: Aptos Display;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 80px;
+  }
+
+  body{
+    height: 100%;
+    position: relative;
+    margin: 86px;
+    padding: 0;
+    background: linear-gradient(#d192cc, #38dce7);
+  }
